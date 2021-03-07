@@ -1,2 +1,3 @@
 # BAN-502-Course-Files
-Predictive Analytics
+Datasets for use in BAN course
+
